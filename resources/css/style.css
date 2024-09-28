@@ -1,0 +1,35 @@
+* {
+    background-color: black;
+    font-family: 'Verdana';
+    text-align: center;
+}
+
+.first-tit {
+    font-size: 50px;
+    color:white
+}
+
+.first-link , .second-link {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+.second-tit , .last-tit{
+    font-size: 42px;
+    color:white;
+    font-weight: 300;
+}
+
+.gray-p {
+    font-size: 21px;
+    color: gray;
+}
+
+#foot {
+    color:gray;
+    text-align: right;
+}
+
+.phonepeq {
+    margin-top: 20px;
+}
